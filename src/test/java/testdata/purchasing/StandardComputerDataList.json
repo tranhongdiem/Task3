@@ -1,0 +1,17 @@
+[
+  {
+    "processorType": "INTEL_22_GHZ",
+    "ram": "RAM_8GB",
+    "hdd": "HDD_400GB"
+  },
+  {
+    "processorType": "INTEL_25_GHZ",
+    "ram": "RAM_4GB",
+    "hdd": "HDD_400GB"
+  },
+  {
+    "processorType": "INTEL_22_GHZ",
+    "ram": "RAM_2GB",
+    "hdd": "HDD_400GB"
+  }
+]

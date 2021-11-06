@@ -1,0 +1,17 @@
+[
+  {
+    "processorType": "PROCESSOR_FAST",
+    "ram": "RAM_8GB",
+    "hdd": "HDD_400GB"
+  },
+  {
+    "processorType": "PROCESSOR_FAST",
+    "ram": "RAM_4GB",
+    "hdd": "HDD_400GB"
+  },
+  {
+    "processorType": "PROCESSOR_FAST",
+    "ram": "RAM_2GB",
+    "hdd": "HDD_400GB"
+  }
+]

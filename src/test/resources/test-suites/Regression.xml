@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression" parallel="classes" thread-count="2">
+    <test name="Computer Order flows">
+        <classes>
+            <class name="tests.order.BuildCheapComputerTest"/>
+            <class name="tests.order.BuildStandardComputerTest"/>
+        </classes>
+    </test>
+</suite>
